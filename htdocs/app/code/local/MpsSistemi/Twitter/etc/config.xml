@@ -91,7 +91,7 @@
     <default>
         <mpstwitter>
             <url>
-                <token>https://api.twitter.com/oauth/token</token>
+                <token>https://api.twitter.com/oauth2/token</token>
                 <request_token>https://api.twitter.com/oauth/request_token</request_token>
                 <authorize>https://api.twitter.com/oauth/authorize</authorize>
                 <access_token>https://api.twitter.com/oauth/access_token</access_token>
